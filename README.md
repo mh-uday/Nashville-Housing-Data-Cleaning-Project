@@ -5,7 +5,7 @@ This project showcases data cleaning techniques performed using SQL on a real-wo
 
 ### Data Sources
 
-The Primary dataset use for this project is the "Nashville Housing Data for Data Cleaning.xlsx" file, containing detailed informations.
+The Primary dataset use for this project is the "Nashville Housing.xlsx" file, containing detailed informations.
 
 ### Tools
 
